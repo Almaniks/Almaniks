@@ -14,7 +14,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on Tableau [Koala bazaar E-commerce Performance Report](https://public.tableau.com/app/profile/almanik.suryo.kuncoro/vizzes)
+- 🔭 I’m currently working on Tableau [Koala Bazaar E-commerce Performance Report](https://public.tableau.com/app/profile/almanik.suryo.kuncoro/vizzes)
 
 - 🌱 I’m currently learning **Revou Full-stack Data Analyst**
 
@@ -47,6 +47,6 @@
   </a>
   <!-- Added Google Colab icon below -->
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" alt="google-colab" width="40" height="40"/>
+    <img src="https://github.com/almaniks/almaniks.github.io/blob/main/assets/google-colab.png?raw=true" alt="google-colab" width="40" height="40"/>
   </a>
 </p>
