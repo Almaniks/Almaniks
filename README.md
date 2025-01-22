@@ -33,7 +33,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
-  <!-- Added Tableau icon below -->
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
   </a>
@@ -48,6 +47,6 @@
   </a>
   <!-- Added Google Colab icon below -->
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Google_Colaboratory_logo.svg/512px-Google_Colaboratory_logo.svg.png" alt="google-colab" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" alt="google-colab" width="40" height="40"/>
   </a>
 </p>
