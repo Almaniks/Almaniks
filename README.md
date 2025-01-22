@@ -1,4 +1,5 @@
 Hello! I’m Almanik Suryo Kuncoro, a passionate Data Analyst who loves turning raw data into meaningful insights. My expertise lies in Python, SQL, and Tableau, and I frequently utilize libraries like pandas, NumPy, and Matplotlib for data cleaning, exploratory analysis, and visualization.
+I value a growth mindset and flexibility as key traits for thriving in today’s professional landscape. A growth mindset fosters continuous development and adaptability to digital workplace challenges, while flexibility allows for effective navigation of diverse work environments, encouraging resilience and innovation
 
 Data Enthusiast: Enjoy diving into diverse datasets, discovering patterns, and solving real-world problems.
 Analytical Approach: Skilled at combining descriptive and inferential methods to guide decision-making.
