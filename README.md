@@ -47,8 +47,8 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   </a>
   <!-- Added Google Colab icon below -->
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Google_Colaboratory_logo.svg/512px-Google_Colaboratory_logo.svg.png" alt="google-colab" width="40" height="40"/>
-  </a>
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/almaniks/almaniks.github.io/blob/main/assets/google-colab.svg?raw=true" alt="google-colab" width="40" height="40"/>
+</a>
 </p>
 
