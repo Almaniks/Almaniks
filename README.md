@@ -47,57 +47,6 @@
   </a>
   <!-- Added Google Colab icon below -->
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/almaniks/almaniks.github.io/blob/main/assets/google-colab.png?raw=true" alt="google-colab" width="40" height="40"/>
+    <img src="https://github.com/Almaniks/Almaniks/blob/main/pngwing.com.png" alt="google-colab" width="40" height="40"/>
   </a>
 </p>
-
----
-
-## 📊 Featured Projects
-
-### Tableau Projects
-
-1. **[Sales Transaction Dashboard](https://public.tableau.com/views/SalesTransaction_17355096981760/SalesTransaction?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-   - **Description:** An interactive Tableau dashboard analyzing sales transactions, highlighting key performance indicators and sales trends.
-   - **Features:**
-     - Monthly and quarterly sales trends
-     - Top-performing products and categories
-     - Regional sales distribution
-   - **Visualization:**
-     ![Sales Transaction Dashboard](./images/sales_transaction_dashboard.png) <!-- Ensure you have this image in the images folder -->
-
-2. **[Customer Demographic Dashboard](https://public.tableau.com/views/SalesTransaction_17355096981760/CustomerDemographic?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-   - **Description:** Dashboard providing insights into customer demographics, helping to understand customer segments and behaviors.
-   - **Features:**
-     - Age and income distribution
-     - Customer segmentation based on purchasing behavior
-     - Geographic distribution of customers
-   - **Visualization:**
-     ![Customer Demographic Dashboard](./images/customer_demographic_dashboard.png) <!-- Ensure you have this image in the images folder -->
-
-### Google Colab Projects
-
-1. **[Sales Data Analysis and Visualization](https://colab.research.google.com/drive/1m9vAErsLAls6XfiCtebwL6obKWqyN7md?usp=sharing)**
-   - **Description:** Comprehensive analysis of sales data, including data cleaning, exploratory data analysis, and visualization using Python libraries.
-   - **Highlights:**
-     - Data preprocessing and cleaning techniques
-     - Visualizations using Matplotlib and Seaborn
-     - Insights derived from sales trends and customer behavior
-   - **Notebook Preview:**
-     ![Sales Data Analysis](./images/sales_data_analysis.png) <!-- Ensure you have this image in the images folder -->
-
-2. **[Predictive Modeling for Customer Churn](https://colab.research.google.com/drive/1Lh7x5hT7XPZfVtmkj-EYdXeOnBPl66W-?usp=sharing)**
-   - **Description:** Building and evaluating a predictive model to identify potential customer churn using machine learning algorithms.
-   - **Highlights:**
-     - Feature engineering and selection
-     - Model training using Logistic Regression and Random Forest
-     - Model evaluation metrics and performance comparison
-   - **Notebook Preview:**
-     ![Customer Churn Prediction](./images/customer_churn_prediction.png) <!-- Ensure you have this image in the images folder -->
-
----
-
-## 📫 Let's Connect
-
-- [LinkedIn](https://linkedin.com/in/almaniksuryokuncoro)
-- [Email](mailto:your.email@example.com)
