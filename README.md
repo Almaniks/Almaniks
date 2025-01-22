@@ -47,6 +47,6 @@
   </a>
   <!-- Added Google Colab icon below -->
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.pngwing.com/en/free-png-arnny" alt="google-colab" width="40" height="40"/>
+    <img src="https://github.com/Almaniks/Almaniks/blob/main/pngwing.com.png" alt="google-colab" width="40" height="40"/>
   </a>
 </p>
