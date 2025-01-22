@@ -49,4 +49,5 @@
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Almaniks/Almaniks/blob/main/pngwing.com.png" alt="google-colab" width="40" height="40"/>
   </a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=almaniks&show_icons=true&locale=en&layout=compact" alt="almaniks" />
 </p>
