@@ -1,4 +1,4 @@
-Hello! I’m [Your Name], a passionate Data Analyst who loves turning raw data into meaningful insights. My expertise lies in Python, SQL, and Tableau, and I frequently utilize libraries like pandas, NumPy, and Matplotlib for data cleaning, exploratory analysis, and visualization.
+Hello! I’m Almanik Suryo Kuncoro, a passionate Data Analyst who loves turning raw data into meaningful insights. My expertise lies in Python, SQL, and Tableau, and I frequently utilize libraries like pandas, NumPy, and Matplotlib for data cleaning, exploratory analysis, and visualization.
 
 Data Enthusiast: Enjoy diving into diverse datasets, discovering patterns, and solving real-world problems.
 Analytical Approach: Skilled at combining descriptive and inferential methods to guide decision-making.
